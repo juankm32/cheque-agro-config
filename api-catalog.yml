@@ -8,8 +8,8 @@ spring:
       version: 4.0.2
   data:
     mongodb:
-      database: test2
-      port: 27018
+      database: test
+      port: 27019
 
 eureka:
   instance:
